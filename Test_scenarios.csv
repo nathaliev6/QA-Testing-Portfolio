@@ -1,6 +1,6 @@
 Scenario ID,Module,Test Scenario,Priority,Type,Status
-TS-001,Login,Verify user can login with valid credentials,High,Functional,Not Executed
-TS-002,Login,Verify login fails with invalid password,High,Functional,Not Executed
-TS-003,Login,Verify error message for empty fields,High,UI,Not Executed
-TS-004,Search,Verify user can search hotels by destination,High,Functional,Not Executed
-TS-005,Booking,Verify booking summary accuracy,High,Functional,Not Executed
+TS_001,Login,Verify user can login with valid credentials,High,Functional,Not Executed
+TS_002,Login,Verify login fails with invalid OTP Code,High,Functional,Not Executed
+TS_003,Login,Verify error message for empty fields,High,UI,Not Executed
+TS_004,Search,Verify user can search hotels by destination,High,Functional,Not Executed
+TS_005,Booking,Verify booking summary accuracy,High,Functional,Not Executed

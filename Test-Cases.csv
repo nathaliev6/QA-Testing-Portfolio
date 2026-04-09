@@ -1,0 +1,4 @@
+Test Case ID,Test Scenario ID,Title,Preconditions,Test Steps,Test Data,Expected Result,Actual Result,Status,Priority
+TC_001,TS_001,Verify user can login with valid credentials,User is registered,1.Open https://www.agoda.com/en-gb/?cid=1844104&ds=hOgnnWIVjxM9BfG8;2.Click Sign in;3.Enter email;4.Click Continue;5.Enter OTP Code,6.Click Continue, email:nati9889@abv.bg,User successfully logs in,-,Not Executed,High
+TC_002,TS_002,Verify login fails with invalid OTP Code, User is registered,1.Open https://www.agoda.com/en-gb/?cid=1844104&ds=hOgnnWIVjxM9BfG8;2.Click Sign in;3.Enter email;4.Click Continue;5.Enter invalid OTP Code,6.Click Continue, email:nati9889@abv.bg,User can't login,-,Not Executed,High
+TC_003,TS_003,Verify error message for empty fields
