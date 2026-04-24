@@ -1,0 +1,6 @@
+Bug ID,Title,Module,Severity,Priority,Status
+BUG_001,Validation message missing for empty email field,Login,Medium,High,Sample
+BUG_002,Search allows invalid past date entry,Search,High,High,Sample
+BUG_003,Price formatting inconsistent on booking page,Booking,Low,Medium,Sample
+BUG_004,Filters reset after refresh,Search,Medium,Medium,Sample
+BUG_005,Long hotel names overlap on mobile layout,UI,Low,Low,Sample

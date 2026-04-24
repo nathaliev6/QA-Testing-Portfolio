@@ -1,0 +1,2 @@
+ID,Title,Type,Priority,Observation,Recommendation
+IMP_001,Chatbot difficult to discover,UX Improvement,Medium,Users need multiple steps/pages to access support bot,Add visible chatbot shortcut on homepage and booking pages

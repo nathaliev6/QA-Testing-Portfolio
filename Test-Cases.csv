@@ -1,6 +1,0 @@
-Test Case ID,Test Scenario ID,Title,Preconditions,Test Steps,Test Data,Expected Result,Actual Result,Status,Priority
-TC_001,TS_001,Verify user can login with valid credentials,User is registered,1.Open https://www.agoda.com/en-gb/?cid=1844104&ds=hOgnnWIVjxM9BfG8;2.Click Sign in;3.Enter email;4.Click Continue button;5.Enter OTP Code;6.Click Continue button, email:nati9889@abv.bg,User successfully logs in,-,Not Executed,High
-TC_002,TS_002,Verify login fails with invalid OTP Code, User is registered,1.Open https://www.agoda.com/en-gb/?cid=1844104&ds=hOgnnWIVjxM9BfG8;2.Click Sign in;3.Enter email;4.Click Continue button;5.Enter invalid OTP Code;6.Click Continue, email:nati9889@abv.bg,User can't login,-,Not Executed,High
-TC_003,TS_003,Verify error message for empty fields, User is registred,1.Open https://www.agoda.com/en-gb/?cid=1844104&ds=hOgnnWIVjxM9BfG8;2.Click Sign in;3.Leave it blank;4.Click Continue button, No data, User can't login,-,Not Executed,High
-TC_004,TS_004,Verify user can search hotels by destination,User is logged in,1.Select Hotels from the list at the center of the page;2.Type a destination;3.Select dates; 4.Click Continue button, Destination: Phuket; Dates:29/05/2026-31/05/2026, User found hotels by destination,-,Not Executed,High
-TC_005,TS_005,Verify booking summary accuracy,High,Functional,Not Executed

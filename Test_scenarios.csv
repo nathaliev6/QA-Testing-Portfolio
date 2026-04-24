@@ -4,3 +4,8 @@ TS_002,Login,Verify login fails with invalid OTP Code,High,Functional,Not Execut
 TS_003,Login,Verify error message for empty fields,High,UI,Not Executed
 TS_004,Search,Verify user can search hotels by destination,High,Functional,Not Executed
 TS_005,Booking,Verify booking summary accuracy,High,Functional,Not Executed
+TS_006,Search,Verify invalid destination search,Medium,Validation,Not Executed
+TS_007,Search,Verify past dates cannot be selected,High,Validation,Not Executed
+TS_008,Filters,Verify filters apply correctly,Medium,Functional,Not Executed
+TS_009,Login,Verify user can logout successfully,Medium,Functional,Not Executed
+TS_010,UI,Verify website layout on mobile resolution,Low,UI,Not Executed
