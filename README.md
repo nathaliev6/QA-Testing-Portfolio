@@ -52,7 +52,7 @@ Examples:
 
 ---
 
-##  Testing Types Practiced
+## Testing Types Practiced
 
 - Functional Testing
 - Negative Testing
@@ -63,7 +63,7 @@ Examples:
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 
 - Manual Testing
 - CSV Documentation
@@ -72,7 +72,7 @@ Examples:
 
 ---
 
-## 🎯 Key Skills Demonstrated
+## Key Skills Demonstrated
 
 - Writing clear QA documentation
 - Identifying risk areas
@@ -83,6 +83,6 @@ Examples:
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 Created as part of personal QA learning journey and portfolio development.
